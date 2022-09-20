@@ -34,21 +34,21 @@ function generateMarkdown(data) {
 ## License
 ${renderLicenseBadge(data.license)}
 
-## Description
-${data.description}
-
 ## Table of Contents (Optional)
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
+- [License](#license)
+- [Description](description)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
-- [License](#license)
 - [Contributors](#contributors)
 - [Tests](#tests)
 - [Questions](#questions)
 
+## Description
+${data.description}
 
 ## Installation
 

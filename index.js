@@ -33,7 +33,7 @@ const questions = [
       },
       {
         type: 'list',
-        message: 'What is yojur license?',
+        message: 'What is your license?',
         name: 'license',
         choices: ['Apache', 'Boost', 'BSD', 'Creative Commons', 'MIT' ]
       },
