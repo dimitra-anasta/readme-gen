@@ -1,4 +1,8 @@
-# Professional README Generator Starter Code
+# Professional README Generator 
+
+## Usage
+
+![img](./assets/Screen%20Shot%202022-09-25%20at%206.32.36%20PM.png)
 
 ## User Story 
 AS A developer
@@ -23,5 +27,11 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the READMEin
 
+## Description 
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+My motivation for this project was to create a README generator that allows the user to create a README file in a faster and simpler way. Using node and javascript, just answering the questions in the terminal allows the user to generate a README file.
+
+## Credits
+
+w3 schools
+
